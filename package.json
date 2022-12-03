@@ -6,6 +6,7 @@
   "name": "uv-app",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
+  "private": "true",
   "main": "index.js",
   "engines": {
     "node": "14.x"
